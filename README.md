@@ -37,7 +37,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model (Transfusion)](https://arxiv.org/abs/2408.11039) | 2024 | Image | Unified | Image2Text | - |
 | [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens (Fluid)](https://arxiv.org/abs/2410.13863) | 2024 | Image | Unified | Image2Text | - |
 | [Autoregressive Image Generation without Vector Quantization (MAR)](https://arxiv.org/abs/2406.11838) | 2024 | Image | Unified | Image2Text | - |
-| [Chameleon: Mixed-Modal Early-Fusion Foundation Models (Chameleon)]([https://arxiv.org/abs/xxxx.xxxxx](https://github.com/facebookresearch/chameleon)) | 2024 | Image | Unified | Image2Text, Text2Image | - |
+| [Chameleon: Mixed-Modal Early-Fusion Foundation Models (Chameleon)](https://github.com/facebookresearch/chameleon) | 2024 | Image | Unified | Image2Text, Text2Image | - |
 | [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models (Mini-Genimi)](https://arxiv.org/abs/2403.18814) | 2024 | Image | Compositional | Image2Text, Text2Image | - |
 | [A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation (DnD-Transformer)](https://arxiv.org/abs/2410.01912) | 2024 | Image | Unified | Text2Image | - |
 | [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction (VAR)](https://arxiv.org/abs/2404.02905) | 2024 | Image | Unified | Text2Image | - |
