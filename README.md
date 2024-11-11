@@ -1,6 +1,13 @@
 # Next Token Prediction Towards Multimodal Intelligence
 A comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey"
 
+<p align="center">
+<img src="./figs/development.png" width=100%>
+<p>
+
+<p align="center">
+<img src="./figs/pipelines.png" width=100%>
+<p>
 
 ## Table of Contents
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
