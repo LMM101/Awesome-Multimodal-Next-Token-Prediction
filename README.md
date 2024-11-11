@@ -1,12 +1,16 @@
-# MMNTP-Survey
-Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey"
+# Next Token Prediction Towards Multimodal Intelligence
+A comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey"
+
 
 ## Table of Contents
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
+   - 1.1 [Vision](#awesome-multimodal-tokenizers-vision)
+   - 1.2 [Audio](#awesome-multimodal-tokenizers-audio)
 2. [Awesome MMNTP Models](#awesome-mmntp-models)
+   - 2.1 [Vision](#awesome-mmntp-models-vision)
+   - 2.2 [Audio](#awesome-mmntp-models-audio)
 
 ## Awesome Multimodal Tokenizers
-
 ### Vision 
 
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
@@ -62,3 +66,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 
 ### Audio
+
+
+
+
