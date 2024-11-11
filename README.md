@@ -28,7 +28,6 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 
 ### Audio
-### Audio
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|----------|----------|
 | [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | 2019     | Audio | Discrete | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) |
