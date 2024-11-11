@@ -13,6 +13,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 |-----------|----------|--------------|----------|----------|
 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021     | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) | 2017     | Image, Video, Audio | Discrete | -        |
+| [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) | 2017     | Video | Continuous | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/MohsenFayyaz89/T3D)       |
 
 
 ### Audio
