@@ -33,7 +33,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [A Single Transformer for Scalable Vision-Language Modeling (SOLO)](https://arxiv.org/abs/2407.06438) | 2024 | Image | Unified | Image2Text | - |
 | [Unveiling Encoder-Free Vision-Language Models (EVE)](https://arxiv.org/abs/2406.11832) | 2024 | Image | Unified | Image2Text | - |
 | [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (Qwen2VL)](https://arxiv.org/abs/2409.12191) | 2024 | Image | Compositional | Image2Text | - |
-| [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation (Janus)](Janus](https://arxiv.org/abs/2410.13848) | 2024 | Image | Compositional | Image2Text, Text2Image | - |
+| [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation (Janus)](https://arxiv.org/abs/2410.13848) | 2024 | Image | Compositional | Image2Text, Text2Image | - |
 | [Emu3: Next-Token Prediction is All You Need (Emu3)](https://arxiv.org/abs/2409.18869) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
 | [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation (Show-o)](https://arxiv.org/abs/2408.12528) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
 | [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation (VILA-U)](https://arxiv.org/abs/2409.04429) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
