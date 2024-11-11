@@ -44,7 +44,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation (LlamaGen)](https://arxiv.org/abs/2406.06525) | 2024 | Image | Unified | Text2Image | - |
 | [MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens (MiniGPT5)](https://arxiv.org/abs/2310.02239) | 2023 | Image | Compositional | Image2Text, Text2Image | - |
 | [BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing (Blip-Diffusion)](https://arxiv.org/abs/2305.14720) | 2023 | Image | Compositional | Text2Image | - |
-| [Kosmos-G: Generating Images in Context with Multimodal Large Language Models (Kosmos-G)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2310.02992)) | 2023 | Image | Compositional | Text2Image | - |
+| [Kosmos-G: Generating Images in Context with Multimodal Large Language Models (Kosmos-G)](https://arxiv.org/abs/2310.02992) | 2023 | Image | Compositional | Text2Image | - |
 | [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization (LaVIT)](https://arxiv.org/abs/2309.04669) | 2023 | Image | Compositional | Image2Text, Text2Image | - |
 | [Generative Multimodal Models are In-Context Learners (Emu2)](https://arxiv.org/abs/2312.13286) | 2023 | Image | Compositional | Image2Text, Text2Image | - |
 | [Generative Pretraining in Multimodality (Emu1)](https://arxiv.org/abs/2307.05222) | 2023 | Image | Compositional | Image2Text, Text2Image | - |
