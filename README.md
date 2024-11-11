@@ -24,9 +24,6 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 ### Vision
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
-|-----------|----------|--------------|----------|----------|----------|
-| [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022     | Image | Compositional | Image2Text | -        |
-| **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
 | [Randomized Autoregressive Visual Generation (RAR)](https://arxiv.org/abs/2411.00776) | 2024 | Image | Unified | Text2Image | - |
 | [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training (MonoInternVL)](https://arxiv.org/abs/2410.08202) | 2024 | Image | Unified | Image2Text | - |
