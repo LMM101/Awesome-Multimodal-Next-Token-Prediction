@@ -9,7 +9,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 
 ### Image and Video
 
-| **Paper** | **Time** | **Modality** | **Tokenization Type** | **Link** |
+| **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|----------|----------|
 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021     | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) | 2017     | Image, Video, Audio | Discrete | -        |
@@ -20,7 +20,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 ## Awesome MMNTP Models
 
 ### Image and Video
-| **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **Link** |
+| **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------|----------|----------|
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022     | Image | Compositional | Image2Text | -        |
 
