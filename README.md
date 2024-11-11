@@ -25,8 +25,8 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
-| [Randomized Autoregressive Visual Generation (RAR)](https://arxiv.org/abs/2411.00776) | 2024 | Image | Unified | Text2Image | - |
-| [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training (MonoInternVL)](https://arxiv.org/abs/2410.08202) | 2024 | Image | Unified | Image2Text | - |
+| [Randomized Autoregressive Visual Generation (RAR)](https://arxiv.org/abs/2411.00776) | 2024 | Image | Unified | Text2Image | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer) |
+| [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training (MonoInternVL)](https://arxiv.org/abs/2410.08202) | 2024 | Image | Unified | Image2Text | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://internvl.github.io/blog/2024-10-10-Mono-InternVL/) |
 | [A Single Transformer for Scalable Vision-Language Modeling (SOLO)](https://arxiv.org/abs/2407.06438) | 2024 | Image | Unified | Image2Text | - |
 | [Unveiling Encoder-Free Vision-Language Models (EVE)](https://arxiv.org/abs/2406.11832) | 2024 | Image | Unified | Image2Text | - |
 | [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (Qwen2VL)](https://arxiv.org/abs/2409.12191) | 2024 | Image | Compositional | Image2Text | - |
