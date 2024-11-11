@@ -34,7 +34,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [Emu3: Next-Token Prediction is All You Need (Emu3)](https://arxiv.org/abs/2409.18869) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
 | [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation (Show-o)](https://arxiv.org/abs/2408.12528) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
 | [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation (VILA-U)](https://arxiv.org/abs/2409.04429) | 2024 | Image, Video | Unified | Image2Text, Text2Image, Text2Video | - |
-| [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model (Transfusion)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2408.11039)) | 2024 | Image | Unified | Image2Text | - |
+| [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model (Transfusion)](https://arxiv.org/abs/2408.11039) | 2024 | Image | Unified | Image2Text | - |
 | [Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens (Fluid)](https://arxiv.org/abs/2410.13863) | 2024 | Image | Unified | Image2Text | - |
 | [Autoregressive Image Generation without Vector Quantization (MAR)](https://arxiv.org/abs/2406.11838) | 2024 | Image | Unified | Image2Text | - |
 | [Chameleon: Mixed-Modal Early-Fusion Foundation Models (Chameleon)]([https://arxiv.org/abs/xxxx.xxxxx](https://github.com/facebookresearch/chameleon)) | 2024 | Image | Unified | Image2Text, Text2Image | - |
