@@ -69,9 +69,6 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
-| [Audiolm: a language modeling approach to audio generation (AudioLM)] | 2022 | Audio | Compositional | A2A | - |
-| **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
-|-----------|----------|--------------|----------------|----------|------------|
 | [VoxtLM: Unified Decoder-Only Models for Consolidating Speech Recognition, Synthesis and Speech, Text Continuation Tasks (VoxtLM)](https://arxiv.org/abs/2309.07937) | 2024 | Audio | Unified | A2T, T2A, A2A, T2T | - |
 | [Moshi: a speech-text foundation model for real-time dialogue (Moshi)](https://arxiv.org/abs/2410.00037) | 2024 | Audio | Unified | A2A | - |
 | [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming (Mini-Omni)](https://arxiv.org/abs/2408.16725) | 2024 | Audio | Compositional | A2A | - |
