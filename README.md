@@ -57,7 +57,7 @@ Paper collection for "Next Token Prediction Towards Multimodal Intelligence: A C
 | [Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models (BLIP2)](https://arxiv.org/abs/2301.12597) | 2023 | Image | Compositional | Image2Text | - |
 | [Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485) | 2023 | Image | Compositional | Image2Text | - |
 | [MiniGPT4: a Visual Language Model for Few-Shot Learning (MiniGPT4)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
-| [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (Unified-IO)]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2206.08916)) | 2022 | Image | Compositional | Image2Text, Text2Image | - |
+| [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (Unified-IO)](https://arxiv.org/abs/2206.08916) | 2022 | Image | Compositional | Image2Text, Text2Image | - |
 | [Zero-Shot Text-to-Image Generation (DALLE)](https://arxiv.org/abs/2102.12092) | 2022 | Image | Unified | Text2Image | - |
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 
