@@ -28,6 +28,27 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 
 ### Audio
+### Audio
+| **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
+|-----------|----------|--------------|----------|----------|
+| [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | 2019     | Audio | Discrete | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) |
+| [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477) | 2020     | Audio | Continuous | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) |
+| [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) | 2021     | Audio | Discrete | - |
+| [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) | 2021   | Audio | Continuous | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/hubert/README.md) |
+| [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/abs/2110.13900) | 2021   | Audio | Continuous | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/wavlm) |
+| [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555) | 2022  | Audio | Continuous | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/data2vec/README.md) |
+| [Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)](https://arxiv.org/abs/2212.04356) | 2022  | Audio | Continuous | [![Star](https://img.shields.io/github/stars/openai/whisper.svg?style=social&label=Star)](https://github.com/openai/whisper) |
+| [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769) | 2022  | Audio | Continuous | [![Star](https://img.shields.io/github/stars/LAION-AI/CLAP.svg?style=social&label=Star)](https://github.com/LAION-AI/CLAP) |
+| [High Fidelity Neural Audio Compression (Encodec)](https://arxiv.org/abs/2210.13438) | 2022  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/facebookresearch/encodec.svg?style=social&label=Star)](https://github.com/facebookresearch/encodec) |
+| [Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages](https://arxiv.org/abs/2303.01037) | 2023  | Audio | Continuous | - |
+| [High-Fidelity Audio Compression with Improved RVQGAN (DAC)](https://arxiv.org/abs/2306.06546) | 2023  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/descriptinc/descript-audio-codec.svg?style=social&label=Star)](https://github.com/descriptinc/descript-audio-codec) |
+| [LMCodec: A Low Bitrate Speech Codec With Causal Transformer Models](https://arxiv.org/abs/2303.12984) | 2023  | Audio | Discrete | - |
+| [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/abs/2305.02765) | 2023  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/yangdongchao/AcademiCodec.svg?style=social&label=Star)](https://github.com/yangdongchao/AcademiCodec) |
+| [SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692) | 2023  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/ZhangXInFD/SpeechTokenizer.svg?style=social&label=Star)](https://github.com/ZhangXInFD/SpeechTokenizer) |
+| [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models (FACodec)](https://arxiv.org/abs/2403.03100) | 2024  | Audio | Discrete | - |
+| [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/abs/2405.00233) | 2024  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/haoheliu/SemantiCodec-inference.svg?style=social&label=Star)](https://github.com/haoheliu/SemantiCodec-inference) |
+| [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling](https://arxiv.org/abs/2408.16532) | 2024  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/jishengpeng/WavTokenizer.svg?style=social&label=Star)](https://github.com/jishengpeng/WavTokenizer) |
+| [Moshi: a speech-text foundation model for real-time dialogue (Mimi)](https://arxiv.org/abs/2410.00037) | 2024  | Audio | Discrete | [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi) |
 
 
 ## Awesome MMNTP Models
