@@ -18,7 +18,7 @@ Building on the foundations of language modeling in natural language processing,
 2. [Awesome MMNTP Models](#awesome-mmntp-models)
    - 2.1 [Vision](#vision-model)
    - 2.2 [Audio](#audio-model)
-3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) (TODO~)
+3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) 
    - 3.1 [Multimodal ICL]()
    - 3.2 [Multimodal CoT]()
 
@@ -157,6 +157,10 @@ Building on the foundations of language modeling in natural language processing,
 | [AudioLM: a Language Modeling Approach to Audio Generation (AudioLM)](https://arxiv.org/abs/2209.03143) | 2022 | Audio | Compositional | A2A | - |
 | [Generative Spoken Language Modeling from Raw Audio (GSLM)](https://arxiv.org/abs/2102.01192) | 2021 | Audio | Unified | A2A | - |
 
+
+## Awesome Multimodal Prompt Engineering (TODO~)
+
+## Reference
 
 
 
