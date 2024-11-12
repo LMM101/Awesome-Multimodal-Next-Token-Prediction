@@ -19,8 +19,8 @@ Building on the foundations of language modeling in natural language processing,
    - 2.1 [Vision](#vision-model)
    - 2.2 [Audio](#audio-model)
 3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) (TODO~)
-   - 3.1 [Multimodal ICL]
-   - 3.2 [Multimodal CoT]
+   - 3.1 [Multimodal ICL]()
+   - 3.2 [Multimodal CoT]()
 
 ## Awesome Multimodal Tokenizers
 ### Vision Tokenizer
