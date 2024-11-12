@@ -1,17 +1,17 @@
 # Next Token Prediction Towards Multimodal Intelligence
 
+<p align="center">
+<img src="./figs/development.png" width=60%>
+<p>
+
 
 Building on the foundations of language modeling in natural language processing, Next Token Prediction (NTP) has evolved into a versatile training objective for machine learning tasks across various modalities, achieving considerable success. This repo features a comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey".
 
-<p align="center">
-<img src="./figs/development.png" width=100%>
-<p>
 
-<p align="center">
-<img src="./figs/pipelines.png" width=100%>
-<p>
+## 🔥🔥 News
+- 2024.11.13: We release the survey at github and this repo!
 
-## Table of Contents
+## 📑 Table of Contents
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
    - 1.1 [Vision](#vision-tokenizer)
    - 1.2 [Audio](#audio-tokenizer)
@@ -21,6 +21,16 @@ Building on the foundations of language modeling in natural language processing,
 3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) 
    - 3.1 [Multimodal ICL]()
    - 3.2 [Multimodal CoT]()
+
+---
+
+
+
+<p align="center">
+<img src="./figs/pipelines.png" width=80%>
+<p>
+
+
 
 ## Awesome Multimodal Tokenizers
 ### Vision Tokenizer
