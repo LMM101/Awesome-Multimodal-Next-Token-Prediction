@@ -25,34 +25,34 @@ Building on the foundations of language modeling in natural language processing,
 ## Awesome Multimodal Tokenizers
 ### Vision Tokenizer
 
+
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
-|-----------|----------|--------------|----------|----------|
-| [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021     | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
-| [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) | 2017     | Image, Video, Audio | Discrete | -        |
-| [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) | 2017     | Video | Continuous | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/MohsenFayyaz89/T3D)       |
-| [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) | 2019     | Image | Discrete | [![Star](https://img.shields.io/github/stars/rosinality/vq-vae-2-pytorch.svg?style=social&label=Star)](https://github.com/rosinality/vq-vae-2-pytorch)       |
-| [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | 2020    | Image | Discrete | [![Star](https://img.shields.io/github/stars/dome272/VQGAN-pytorch.svg?style=social&label=Star)](https://github.com/dome272/VQGAN-pytorch)       |
-| [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) | 2021    | Image | Continuous | [Github](https://github.com/google-deepmind/deepmind-research/tree/master/nfnets) |
-| [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254) | 2021    | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit)       |
-| [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) | 2021    | Image | Discrete | -      |
-| [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691) | 2021    | Video | Continuous | [Github](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit)      |
-| [FlexiViT: One Model for All Patch Sizes](https://arxiv.org/abs/2212.08013) | 2022    | Image | Continuous | [![Star](https://img.shields.io/github/stars/bwconrad/flexivit.svg?style=social&label=Star)](https://github.com/bwconrad/flexivit)      |
-| [ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning](https://arxiv.org/pdf/2101.10803) | 2022    | Image | Continuous | [![Star](https://img.shields.io/github/stars/sangho-vision/acav100m.svg?style=social&label=Star)](https://github.com/sangho-vision/acav100m)      |
-| [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941) | 2022    | Image | Discrete | - |
-| [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) | 2022    | Video | Discrete | [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)      |
-| [Phenaki: Variable Length Video Generation From Open Domain Textual Description](https://arxiv.org/abs/2210.02399) | 2022    | Video | Discrete |-  |
-| [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917) | 2022    | Image | Continuous |-  |
-| [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/abs/2303.15389) | 2023    | Image | Continuous |[Github](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) |
-| [SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding](https://arxiv.org/abs/2310.15308) | 2023    | Image | Continuous |- |
-| [Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/abs/2307.06304) | 2023    | Image | Continuous |- |
-| [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238) | 2023    | Image | Continuous |[![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) |
-| [Planting a SEED of Vision in Large Language Model](https://arxiv.org/abs/2307.08041) | 2023    | Image | Discrete  |[![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED) |
-| [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/abs/2310.05737) | 2024    | Image,Video | Discrete  |- |
-| [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization](https://arxiv.org/abs/2309.04669) | 2024    | Image | Discrete  |[![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT) |
-| [Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization](https://arxiv.org/abs/2402.03161) | 2024    | Video | Discrete  |[![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT) |
-| [SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842) | 2024    | Image | Discrete  |- |
-| [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) | 2024    | Image | Discrete  |[![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR) |
-| [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (QwenVL2-ViT)](https://arxiv.org/abs/2409.12191) | 2024    | Image,Video | Continuous  |[![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
+|-----------|----------|--------------|-----------------------|-------------|
+| [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (QwenVL2-ViT)](https://arxiv.org/abs/2409.12191) | 2024 | Image,Video | Continuous | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
+| [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) | 2024 | Image | Discrete | [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR) |
+| [SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842) | 2023 | Image | Discrete | - |
+| [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization](https://arxiv.org/abs/2309.04669) | 2023 | Image | Discrete | [![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT) |
+| [Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation](https://arxiv.org/abs/2310.05737) | 2023 | Image,Video | Discrete | - |
+| [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238) | 2023 | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) |
+| [Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/abs/2307.06304) | 2023 | Image | Continuous | - |
+| [Planting a SEED of Vision in Large Language Model](https://arxiv.org/abs/2307.08041) | 2023 | Image | Discrete | [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED) |
+| [SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding](https://arxiv.org/abs/2310.15308) | 2023 | Image | Continuous | - |
+| [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/abs/2303.15389) | 2023 | Image | Continuous | [Github](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) |
+| [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) | 2022 | Video | Discrete | [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit) |
+| [Phenaki: Variable Length Video Generation From Open Domain Textual Description](https://arxiv.org/abs/2210.02399) | 2022 | Video | Discrete | - |
+| [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917) | 2022 | Image | Continuous | - |
+| [Autoregressive Image Generation using Residual Quantization](https://arxiv.org/abs/2203.01941) | 2022 | Image | Discrete | - |
+| [ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning](https://arxiv.org/pdf/2101.10803) | 2022 | Image | Continuous | [![Star](https://img.shields.io/github/stars/sangho-vision/acav100m.svg?style=social&label=Star)](https://github.com/sangho-vision/acav100m) |
+| [FlexiViT: One Model for All Patch Sizes](https://arxiv.org/abs/2212.08013) | 2022 | Image | Continuous | [![Star](https://img.shields.io/github/stars/bwconrad/flexivit.svg?style=social&label=Star)](https://github.com/bwconrad/flexivit) |
+| [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) | 2021 | Image | Discrete | - |
+| [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691) | 2021 | Video | Continuous | [Github](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit) |
+| [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254) | 2021 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
+| [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) | 2021 | Image | Continuous | [Github](https://github.com/google-deepmind/deepmind-research/tree/master/nfnets) |
+| [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021 | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
+| [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | 2020 | Image | Discrete | [![Star](https://img.shields.io/github/stars/dome272/VQGAN-pytorch.svg?style=social&label=Star)](https://github.com/dome272/VQGAN-pytorch) |
+| [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) | 2019 | Image | Discrete | [![Star](https://img.shields.io/github/stars/rosinality/vq-vae-2-pytorch.svg?style=social&label=Star)](https://github.com/rosinality/vq-vae-2-pytorch) |
+| [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) | 2017 | Video | Continuous | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/MohsenFayyaz89/T3D) |
+| [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) | 2017 | Image, Video, Audio | Discrete | - |
 
 
 ### Audio Tokenizer
