@@ -9,7 +9,7 @@ Building on the foundations of language modeling in natural language processing,
 
 
 ## 🔥🔥 News
-- 2024.11.13: We release the survey and this repo!
+- 2024.11.13: We release the survey and this repo at GitHub!
 
 ## 📑 Table of Contents
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
