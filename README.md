@@ -16,6 +16,9 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 2. [Awesome MMNTP Models](#awesome-mmntp-models)
    - 2.1 [Vision](#vision-model)
    - 2.2 [Audio](#audio-model)
+3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) (TODO~)
+   - 3.1 [Multimodal ICL]
+   - 3.2 [Multimodal CoT]
 
 ## Awesome Multimodal Tokenizers
 ### Vision Tokenizer
