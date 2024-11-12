@@ -52,7 +52,7 @@ Building on the foundations of language modeling in natural language processing,
 | [Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization](https://arxiv.org/abs/2402.03161) | 2024    | Video | Discrete  |[![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT) |
 | [SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842) | 2024    | Image | Discrete  |- |
 | [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) | 2024    | Image | Discrete  |[![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR) |
-| [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) | 2024    | Image,Video | Continuous  |[![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
+| [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (QwenVL2-ViT)](https://arxiv.org/abs/2409.12191) | 2024    | Image,Video | Continuous  |[![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
 
 
 ### Audio Tokenizer
