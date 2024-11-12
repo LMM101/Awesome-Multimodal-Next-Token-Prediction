@@ -75,7 +75,7 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 ## Awesome MMNTP Models
 
-### Vision Tokenizer
+### Vision Model
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
@@ -115,7 +115,7 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 | [Zero-Shot Text-to-Image Generation (DALLE)](https://arxiv.org/abs/2102.12092) | 2022 | Image | Unified | Text2Image | - |
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 
-### Audio Tokenizer
+### Audio Model
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
