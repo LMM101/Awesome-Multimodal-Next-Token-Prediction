@@ -25,6 +25,9 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021     | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) | 2017     | Image, Video, Audio | Discrete | -        |
 | [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) | 2017     | Video | Continuous | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/MohsenFayyaz89/T3D)       |
+| [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) | 2019     | Image | Discrete | [![Star](https://img.shields.io/github/stars/rosinality/vq-vae-2-pytorch.svg?style=social&label=Star)](https://github.com/rosinality/vq-vae-2-pytorch)       |
+| [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | 2020    | Image | Discrete | [![Star](https://img.shields.io/github/stars/dome272/VQGAN-pytorch.svg?style=social&label=Star)](https://github.com/dome272/VQGAN-pytorch)       |
+| [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) | 2021    | Image | Continuous | [![Star](https://img.shields.io/github/stars/google-deepmind/deepmind-research/tree/master/nfnets.svg?style=social&label=Star)](https://github.com/google-deepmind/deepmind-research/tree/master/nfnets)       |
 
 
 ### Audio Tokenizer
