@@ -11,14 +11,14 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 ## Table of Contents
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
-   - 1.1 [Vision](#awesome-multimodal-tokenizers-vision)
-   - 1.2 [Audio](#awesome-multimodal-tokenizers-audio)
+   - 1.1 [Vision](#vision-tokenizer)
+   - 1.2 [Audio](#audio-tokenizer)
 2. [Awesome MMNTP Models](#awesome-mmntp-models)
-   - 2.1 [Vision](#awesome-mmntp-models-vision)
-   - 2.2 [Audio](#awesome-mmntp-models-audio)
+   - 2.1 [Vision](#vision-model)
+   - 2.2 [Audio](#audio-model)
 
 ## Awesome Multimodal Tokenizers
-### Vision 
+### Vision Tokenizer
 
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|----------|----------|
@@ -27,7 +27,7 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 | [Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification](https://arxiv.org/abs/1711.08200) | 2017     | Video | Continuous | [![Star](https://img.shields.io/github/stars/MohsenFayyaz89/T3D.svg?style=social&label=Star)](https://github.com/MohsenFayyaz89/T3D)       |
 
 
-### Audio
+### Audio Tokenizer
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|----------|----------|
 | [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) | 2019     | Audio | Discrete | [![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md) |
@@ -52,7 +52,7 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 
 ## Awesome MMNTP Models
 
-### Vision
+### Vision Tokenizer
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
@@ -92,7 +92,7 @@ A comprehensive paper and repos collection for the survey: "Next Token Predictio
 | [Zero-Shot Text-to-Image Generation (DALLE)](https://arxiv.org/abs/2102.12092) | 2022 | Image | Unified | Text2Image | - |
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 
-### Audio
+### Audio Tokenizer
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
