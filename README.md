@@ -1,5 +1,7 @@
 # Next Token Prediction Towards Multimodal Intelligence
-A comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey"
+
+
+Building on the foundations of language modeling in natural language processing, Next Token Prediction (NTP) has evolved into a versatile training objective for machine learning tasks across various modalities, achieving considerable success. This repo features a comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey".
 
 <p align="center">
 <img src="./figs/development.png" width=100%>
