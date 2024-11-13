@@ -14,6 +14,11 @@ Building on the foundations of language modeling in natural language processing,
 - 2024.11.13: We release the survey and this repo at GitHub! Feel free to make pull requests to add the latest or missing work ~ 
 
 ## 📑 Table of Contents
+
+<p align="center">
+<img src="./figs/pipelines.png" width=100%>
+<p>
+
 1. [Awesome Multimodal Tokenizers](#awesome-multimodal-tokenizers)
    - 1.1 [Vision](#vision-tokenizer)
    - 1.2 [Audio](#audio-tokenizer)
@@ -28,9 +33,7 @@ Building on the foundations of language modeling in natural language processing,
 
 
 
-<p align="center">
-<img src="./figs/pipelines.png" width=80%>
-<p>
+
 
 
 
