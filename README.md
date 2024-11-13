@@ -21,8 +21,8 @@ Building on the foundations of language modeling in natural language processing,
    - 2.1 [Vision](#vision-model)
    - 2.2 [Audio](#audio-model)
 3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) 
-   - 3.1 [Multimodal ICL]()
-   - 3.2 [Multimodal CoT]()
+   - 3.1 [Multimodal ICL](#multimodal-icl)
+   - 3.2 [Multimodal CoT](#multimodal-cot)
 
 ---
 
@@ -38,7 +38,7 @@ Building on the foundations of language modeling in natural language processing,
 
 
 <p align="center">
-<img src="./figs/tokenizer.png" width=60%>
+<img src="./figs/tokenizer.png" width=100%>
 <p>
 
 
@@ -100,7 +100,7 @@ Building on the foundations of language modeling in natural language processing,
 ## Awesome MMNTP Models
 
 <p align="center">
-<img src="./figs/model_type.png" width=60%>
+<img src="./figs/model_type.png" width=100%>
 <p>
 
 ### Vision Model
@@ -181,10 +181,21 @@ Building on the foundations of language modeling in natural language processing,
 | [Generative Spoken Language Modeling from Raw Audio (GSLM)](https://arxiv.org/abs/2102.01192) | 2021 | Audio | Unified | A2A | - |
 
 
-## Awesome Multimodal Prompt Engineering (TODO~)
+## Awesome Multimodal Prompt Engineering 
+
+### Multimodal ICL
+
+| **Paper** | **Time** | **Modality**  | **GitHub** |
+|-----------|----------|--------------|-------------|
+
+### Multimodal CoT
+
+| **Paper** | **Time** | **Modality**  | **GitHub** |
+|-----------|----------|--------------|-------------|
+
 
 <p align="center">
-<img src="./figs/prompt.png" width=60%>
+<img src="./figs/prompt.png" width=100%>
 <p>
 
 ## Reference
