@@ -157,7 +157,7 @@ Building on the foundations of language modeling in natural language processing,
 | [SpeechVerse: A Large-scale Generalizable Audio Language Model (SpeechVerse)](https://arxiv.org/abs/2405.08295) | 2024 | Audio | Compositional | A2T | - |
 | [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities (AudioFlamingo)](https://arxiv.org/abs/2402.01831) | 2024 | Audio | Compositional | A2T | [![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)](https://github.com/NVIDIA/audio-flamingo) |
 | [WavLLM: Towards Robust and Adaptive Speech Large Language Model (WavLLM)](https://arxiv.org/abs/2404.00656) | 2024 | Audio | Compositional | A2T | [![Star](https://img.shields.io/github/stars/microsoft/SpeechT5.svg?style=social&label=Star)](https://github.com/microsoft/SpeechT5) |
-| [Autoregressive Speech Synthesis without Vector Quantization (MELLE)](https://arxiv.org/abs/2407.08551) | 2024 | Audio | Unified | T2A | - |
+| [MELLE: Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/abs/2407.08551) | 2024 | Audio | Unified | T2A | - |
 | [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models (Seed-TTS)](https://arxiv.org/abs/2406.02430) | 2024 | Audio | Compositional | T2A | - |
 | [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications (FireRedTTS)](https://www.arxiv.org/abs/2409.03283) | 2024 | Audio | Compositional | T2A | [![Star](https://img.shields.io/github/stars/FireRedTeam/FireRedTTS.svg?style=social&label=Star)](https://github.com/FireRedTeam/FireRedTTS) |
 | [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens (CosyVoice)](https://arxiv.org/abs/2407.05407) | 2024 | Audio | Compositional | T2A | [![Star](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg?style=social&label=Star)](https://github.com/FunAudioLLM/CosyVoice) |
@@ -195,9 +195,9 @@ Building on the foundations of language modeling in natural language processing,
 | **Paper** | **Time** | **Modality**  | **GitHub** |
 |-----------|----------|--------------|-------------|
 | [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111) | 2023 | Audio | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
-| [Autoregressive Speech Synthesis without Vector Quantization (MELLE)](https://arxiv.org/abs/2407.08551) | 2024 | Audio | - |
+| [MELLE: Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/abs/2407.08551) | 2024 | Audio | - |
 | [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models (Seed-TTS)](https://arxiv.org/abs/2406.02430) | 2024 | Audio | - |
-| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities (AudioFlamingo)](https://arxiv.org/abs/2402.01831) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)](https://github.com/NVIDIA/audio-flamingo) |
+| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)](https://github.com/NVIDIA/audio-flamingo) |
 | [Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037) | 2024  | Audio  | [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi) |
 
 
