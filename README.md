@@ -183,6 +183,10 @@ Building on the foundations of language modeling in natural language processing,
 
 ## Awesome Multimodal Prompt Engineering 
 
+<p align="center">
+<img src="./figs/prompt.png" width=100%>
+<p>
+
 ### Multimodal ICL
 
 | **Paper** | **Time** | **Modality**  | **GitHub** |
@@ -194,9 +198,7 @@ Building on the foundations of language modeling in natural language processing,
 |-----------|----------|--------------|-------------|
 
 
-<p align="center">
-<img src="./figs/prompt.png" width=100%>
-<p>
+
 
 ## Reference
 
