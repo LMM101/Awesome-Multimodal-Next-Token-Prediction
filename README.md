@@ -33,6 +33,13 @@ Building on the foundations of language modeling in natural language processing,
 
 
 ## Awesome Multimodal Tokenizers
+
+
+<p align="center">
+<img src="./figs/tokenizer.png" width=60%>
+<p>
+
+
 ### Vision Tokenizer
 
 
@@ -89,6 +96,10 @@ Building on the foundations of language modeling in natural language processing,
 
 
 ## Awesome MMNTP Models
+
+<p align="center">
+<img src="./figs/model_type.png" width=60%>
+<p>
 
 ### Vision Model
 
@@ -169,6 +180,10 @@ Building on the foundations of language modeling in natural language processing,
 
 
 ## Awesome Multimodal Prompt Engineering (TODO~)
+
+<p align="center">
+<img src="./figs/prompt.png" width=60%>
+<p>
 
 ## Reference
 
