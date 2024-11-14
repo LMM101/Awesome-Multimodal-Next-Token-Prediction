@@ -209,7 +209,10 @@ Building on the foundations of language modeling in natural language processing,
 
 | **Paper** | **Time** | **Modality**  | **GitHub** |
 |-----------|----------|--------------|-------------|
+| [WavLLM: Towards Robust and Adaptive Speech Large Language Model (WavLLM)](https://arxiv.org/abs/2404.00656) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/microsoft/SpeechT5.svg?style=social&label=Star)](https://github.com/microsoft/SpeechT5) |
 | [SpeechVerse: A Large-scale Generalizable Audio Language Model (SpeechVerse)](https://arxiv.org/abs/2405.08295) | 2024 | Audio | - |
+| [CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought](https://arxiv.org/abs/2409.19510) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/X-LANCE/SLAM-LLM.svg?style=social&label=Star)](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/st_covost2) |
+| [Chain-of-Thought Prompting for Speech Translation](https://arxiv.org/abs/2409.11538) | 2024 | Audio | - |
 
 
 
