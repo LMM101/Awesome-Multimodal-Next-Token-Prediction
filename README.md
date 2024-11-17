@@ -213,6 +213,18 @@ Building on the foundations of language modeling in natural language processing,
 | [SpeechVerse: A Large-scale Generalizable Audio Language Model (SpeechVerse)](https://arxiv.org/abs/2405.08295) | 2024 | Audio | - |
 | [CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought](https://arxiv.org/abs/2409.19510) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/X-LANCE/SLAM-LLM.svg?style=social&label=Star)](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/st_covost2) |
 | [Chain-of-Thought Prompting for Speech Translation](https://arxiv.org/abs/2409.11538) | 2024 | Audio | - |
+| [Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition](https://openreview.net/pdf?id=fO31YAyNbI) | 2024 | Video | [![Star](https://img.shields.io/github/stars/scofield7419/Video-of-Thought.svg?style=social&label=Star)](https://github.com/scofield7419/Video-of-Thought)|
+| [VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool](https://arxiv.org/pdf/2407.05355) | 2024 | Video | - |
+| [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/pdf/2403.16999) | 2024 | Image | [![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star)](https://github.com/deepcs233/Visual-CoT)|
+| [CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations](https://arxiv.org/pdf/2402.04236) | 2024 | Image | [![Star](https://img.shields.io/github/stars/THUDM/CogCoM.svg?style=social&label=Star)](https://github.com/THUDM/CogCoM)|
+| [Compositional Chain-of-Thought Prompting for Large Multimodal Model](https://arxiv.org/pdf/2311.17076) | 2023 | Image | [![Star](https://img.shields.io/github/stars/chancharikmitra/CCoT?style=social&label=Star)](https://github.com/chancharikmitra/CCoT)|
+| [V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/pdf/2312.14135) | 2023 | Image | [![Star](https://img.shields.io/github/stars/penghao-wu/vstar.svg?style=social&label=Star)](https://github.com/penghao-wu/vstar)|
+| [DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models](https://arxiv.org/pdf/2310.16436) | 2023 | Image | [![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)](https://github.com/SooLab/DDCOT)|
+| [Visual Chain-of-Thought Diffusion Models](https://arxiv.org/pdf/2303.16187) | 2023 | Image | - |
+| [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923) | 2023 | Image |[![Star](https://img.shields.io/github/stars/amazon-science/mm-cot.svg?style=social&label=Star)](https://github.com/amazon-science/mm-cot)|
+
+
+
 
 
 
