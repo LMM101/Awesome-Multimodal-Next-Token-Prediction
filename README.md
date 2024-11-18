@@ -192,16 +192,31 @@ Building on the foundations of language modeling in natural language processing,
 
 ### Multimodal ICL
 
-| **Paper** | **Time** | **Modality**  | **GitHub** |
+| **Paper** | **Time** | **Modality** | **GitHub** |
 |-----------|----------|--------------|-------------|
+| [Multimodal Few-Shot Learning with Frozen Language Models (Frozen)](https://arxiv.org/abs/2106.13884) | 2021 | Image | - |
+| [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | - |
+| [MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning (MMICL)](https://arxiv.org/abs/2309.07915) | 2023 | Image | [![Star](https://img.shields.io/github/stars/HaozheZhao/MIC.svg?style=social&label=Star)](https://github.com/HaozheZhao/MIC) |
+| [Efficient In-Context Learning in Vision-Language Models for Egocentric Videos (EILeV)](https://arxiv.org/abs/2311.17041) | 2023 | Image | [![Star](https://img.shields.io/github/stars/yukw777/EILEV.svg?style=social&label=Star)](https://yukw777.github.io/EILEV/) |
+| [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models (Open-Flamingo)](https://arxiv.org/abs/2308.01390) | 2023 | Image | [![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star)](https://github.com/mlfoundations/open_flamingo) |
+| [Link-Context Learning for Multimodal LLMs (LCL)](https://arxiv.org/abs/2308.07891) | 2023 | Image | [![Star](https://img.shields.io/github/stars/isekai-portal/Link-Context-Learning.svg?style=social&label=Star)](https://github.com/isekai-portal/Link-Context-Learning) |
+| [Med-Flamingo: a Multimodal Medical Few-shot Learner (Med-Flamingo)](https://arxiv.org/abs/2307.15189) | 2023 | Image | [![Star](https://img.shields.io/github/stars/snap-stanford/med-flamingo.svg?style=social&label=Star)](https://github.com/snap-stanford/med-flamingo) |
+| [MIMIC-IT: Multi-Modal In-Context Instruction Tuning (MIMIC-IT)](https://arxiv.org/abs/2306.05425) | 2023 | Image | [![Star](https://img.shields.io/github/stars/otter-ntu/MIMIC-IT.svg?style=social&label=Star)](https://otter-ntu.github.io/) |
+| [Sequential Modeling Enables Scalable Learning for Large Vision Models (LVM)](https://arxiv.org/abs/2312.00785) | 2023 | Image | [![Star](https://img.shields.io/github/stars/yutongbai/lvm.svg?style=social&label=Star)](https://yutongbai.com/lvm.html) |
+| [World Model on Million-Length Video And Language With Blockwise RingAttention (LWM)](https://arxiv.org/abs/2402.08268) | 2023 | Image, Video | [![Star](https://img.shields.io/github/stars/largeworldmodel/lwm.svg?style=social&label=Star)](https://largeworldmodel.github.io/lwm/) |
+| [Exploring Diverse In-Context Configurations for Image Captioning (Yang et al.)](https://github.com/yongliang-wu/ExploreCfg) | 2024 | Image | [![Star](https://img.shields.io/github/stars/yongliang-wu/ExploreCfg.svg?style=social&label=Star)](https://github.com/yongliang-wu/ExploreCfg) |
+| [Visual In-Context Learning for Large Vision-Language Models (VisualICL)](https://aclanthology.org/2024.findings-acl.940/) | 2024 | Image | - |
+| [Many-Shot In-Context Learning in Multimodal Foundation Models (Many-Shots ICL)](https://arxiv.org/abs/2405.09798) | 2024 | Image | [![Star](https://img.shields.io/github/stars/stanfordmlgroup/ManyICL.svg?style=social&label=Star)](https://github.com/stanfordmlgroup/ManyICL) |
+| [Can MLLMs Perform Text-to-Image In-Context Learning? (CoBSAT)](https://arxiv.org/abs/2402.01293) | 2024 | Image | [![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star)](https://github.com/UW-Madison-Lee-Lab/CoBSAT) |
+| [Video In-context Learning (Video ICL)](https://arxiv.org/abs/2407.07356) | 2024 | Video | [![Star](https://img.shields.io/github/stars/aka-ms/vid-icl.svg?style=social&label=Star)](https://aka.ms/vid-icl) |
+| [Generative Pretraining in Multimodality (Emu)](https://arxiv.org/abs/2307.05222) | 2024 | Image, Video | [![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu) |
+| [Generative Multimodal Models are In-Context Learners (Emu2)](https://arxiv.org/abs/2312.13286) | 2024 | Image, Video | [![Star](https://img.shields.io/github/stars/baaivision/emu2.svg?style=social&label=Star)](https://baaivision.github.io/emu2) |
+| [Towards More Unified In-context Visual Understanding (Sheng et al.)](https://arxiv.org/abs/2312.02520) | 2024 | Image | - |
 | [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)](https://arxiv.org/abs/2301.02111) | 2023 | Audio | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
-| [MELLE: Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/abs/2407.08551) | 2024 | Audio | - |
+| [MELLE: Autoregressive Speech Synthesis without Vector Quantization (MELLE)](https://arxiv.org/abs/2407.08551) | 2024 | Audio | - |
 | [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models (Seed-TTS)](https://arxiv.org/abs/2406.02430) | 2024 | Audio | - |
-| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)](https://github.com/NVIDIA/audio-flamingo) |
-| [Moshi: a speech-text foundation model for real-time dialogue](https://arxiv.org/abs/2410.00037) | 2024  | Audio  | [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi) |
-
-
-
+| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities (Audio Flamingo)](https://arxiv.org/abs/2402.01831) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)](https://github.com/NVIDIA/audio-flamingo) |
+| [Moshi: a speech-text foundation model for real-time dialogue (Moshi)](https://arxiv.org/abs/2410.00037) | 2024 | Audio | [![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)](https://github.com/kyutai-labs/moshi) |
 
 
 
