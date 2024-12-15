@@ -1,8 +1,10 @@
+<h1 align="center">Next Token Prediction Towards Multimodal Intelligence</h1>
+
+
+
 <p align="center">
 <img src="./figs/development.png" width=100%>
 <p>
-
-<h1 align="center">Next Token Prediction Towards Multimodal Intelligence</h1>
 
 
 
