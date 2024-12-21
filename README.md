@@ -62,6 +62,9 @@ Building on the foundations of language modeling in natural language processing,
 | [Planting a SEED of Vision in Large Language Model](https://arxiv.org/abs/2307.08041) | 2023 | Image | Discrete | [![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star)](https://github.com/AILab-CVC/SEED) |
 | [SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding](https://arxiv.org/abs/2310.15308) | 2023 | Image | Continuous | - |
 | [EVA-CLIP: Improved Training Techniques for CLIP at Scale](https://arxiv.org/abs/2303.15389) | 2023 | Image | Continuous | [Github](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) |
+| [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf) | 2023 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
+| [A Unified View of Masked Image Modeling](https://openreview.net/pdf?id=wmGlMhaBe0) | 2023 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
+| [BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers](https://arxiv.org/pdf/2208.06366.pdf) | 2022 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
 | [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) | 2022 | Video | Discrete | [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit) |
 | [Phenaki: Variable Length Video Generation From Open Domain Textual Description](https://arxiv.org/abs/2210.02399) | 2022 | Video | Discrete | - |
 | [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917) | 2022 | Image | Continuous | - |
@@ -70,7 +73,7 @@ Building on the foundations of language modeling in natural language processing,
 | [FlexiViT: One Model for All Patch Sizes](https://arxiv.org/abs/2212.08013) | 2022 | Image | Continuous | [![Star](https://img.shields.io/github/stars/bwconrad/flexivit.svg?style=social&label=Star)](https://github.com/bwconrad/flexivit) |
 | [Vector-quantized Image Modeling with Improved VQGAN](https://arxiv.org/pdf/2110.04627) | 2021 | Image | Discrete | - |
 | [ViViT: A Video Vision Transformer](https://arxiv.org/pdf/2103.15691) | 2021 | Video | Continuous | [Github](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit) |
-| [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254) | 2021 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
+| [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254) | 2021 | Image | Continuous | [Github](https://github.com/microsoft/unilm/tree/master/beit) |
 | [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) | 2021 | Image | Continuous | [Github](https://github.com/google-deepmind/deepmind-research/tree/master/nfnets) |
 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) | 2021 | Image | Continuous | [![Star](https://img.shields.io/github/stars/OpenAI/CLIP.svg?style=social&label=Star)](https://github.com/OpenAI/CLIP) |
 | [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841) | 2020 | Image | Discrete | [![Star](https://img.shields.io/github/stars/dome272/VQGAN-pytorch.svg?style=social&label=Star)](https://github.com/dome272/VQGAN-pytorch) |
@@ -112,6 +115,7 @@ Building on the foundations of language modeling in natural language processing,
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
+| [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635.pdf) | 2024 | Image | Unified | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
 | [Randomized Autoregressive Visual Generation (RAR)](https://arxiv.org/abs/2411.00776) | 2024 | Image | Unified | Text2Image | [![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)](https://github.com/bytedance/1d-tokenizer) |
 | [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training (MonoInternVL)](https://arxiv.org/abs/2410.08202) | 2024 | Image | Unified | Image2Text | - |
 | [A Single Transformer for Scalable Vision-Language Modeling (SOLO)](https://arxiv.org/abs/2407.06438) | 2024 | Image | Unified | Image2Text | - |
@@ -132,6 +136,9 @@ Building on the foundations of language modeling in natural language processing,
 | [MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens (MiniGPT5)](https://arxiv.org/abs/2310.02239) | 2023 | Image | Compositional | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5.svg?style=social&label=Star)](https://github.com/eric-ai-lab/MiniGPT-5) |
 | [BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing (Blip-Diffusion)](https://arxiv.org/abs/2305.14720) | 2023 | Image | Compositional | Text2Image | [![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS) |
 | [Kosmos-G: Generating Images in Context with Multimodal Large Language Models (Kosmos-G)](https://arxiv.org/abs/2310.02992) | 2023 | Image | Compositional | Text2Image | [![Star](https://img.shields.io/github/stars/xichenpan/Kosmos-G.svg?style=social&label=Star)](https://github.com/xichenpan/Kosmos-G) |
+| [Kosmos-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf) | 2023 | Image | Compositional | Image2Text | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
+| [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/pdf/2309.11419.pdf) | 2023 | Image | Compositional | Image2Text | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
+| [Kosmos-E: Learning to Follow Instruction for Robotic Grasping](https://tx-leo.github.io/KOSMOS-E/) | 2023 | Image | Compositional | Image2Text | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
 | [Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization (LaVIT)](https://arxiv.org/abs/2309.04669) | 2023 | Image | Compositional | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star)](https://github.com/jy0205/LaVIT) |
 | [Generative Multimodal Models are In-Context Learners (Emu2)](https://arxiv.org/abs/2312.13286) | 2023 | Image | Compositional | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu) |
 | [Generative Pretraining in Multimodality (Emu1)](https://arxiv.org/abs/2307.05222) | 2023 | Image | Compositional | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star)](https://github.com/baaivision/Emu) |
@@ -146,6 +153,7 @@ Building on the foundations of language modeling in natural language processing,
 | [MiniGPT4: a Visual Language Model for Few-Shot Learning (MiniGPT4)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 | [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks (Unified-IO)](https://arxiv.org/abs/2206.08916) | 2022 | Image | Compositional | Image2Text, Text2Image | - |
 | [Zero-Shot Text-to-Image Generation (DALLE)](https://arxiv.org/abs/2102.12092) | 2022 | Image | Unified | Text2Image | - |
+| [Language Models are General-Purpose Interfaces](https://arxiv.org/pdf/2206.06336.pdf) | 2022 | Image | Compositional | Image2Text | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
 | [Flamingo: a Visual Language Model for Few-Shot Learning (Flamingo)](https://arxiv.org/abs/2204.14198) | 2022 | Image | Compositional | Image2Text | - |
 
 ### Audio Model
