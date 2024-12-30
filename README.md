@@ -13,11 +13,14 @@
 
 
 
+
 Building on the foundations of language modeling in natural language processing, Next Token Prediction (NTP) has evolved into a versatile training objective for machine learning tasks across various modalities, achieving considerable success in both understanding and generation tasks. This repo features a comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey". 
+
+> **Authors**: Liang Chen, Zekun Wang, Shuhuai Ren, Lei Li, Haozhe Zhao, Yunshui Li, Zefan Cai, Hongcheng Guo, Lei Zhang, Yizhe Xiong, Yichi Zhang, Ruoyu Wu, Qingxiu Dong, Ge Zhang, Jian Yang, Lingwei Meng, Shujie Hu, Yulong Chen, Junyang Lin, Shuai Bai, Andreas Vlachos, Xu Tan, Minjia Zhang, Wen Xiao, Aaron Yee, Tianyu Liu, Baobao Chang
 
 
 ## 🔥🔥 News
-- 2024.12.15: We release the survey and this repo at GitHub! Feel free to make pull requests to add the latest work ~ 
+- 2024.12.30: We release the survey on arxiv and this repo at GitHub! Feel free to make pull requests to add the latest work ~ 
 
 ## 📑 Table of Contents
 
@@ -34,6 +37,7 @@ Building on the foundations of language modeling in natural language processing,
 3. [Awesome Multimodal Prompt Engineering](#awesome-multimodal-prompt-engineering) 
    - 3.1 [Multimodal ICL](#multimodal-icl)
    - 3.2 [Multimodal CoT](#multimodal-cot)
+4. [Citation](#citation) 
 
 ---
 
@@ -258,9 +262,20 @@ Building on the foundations of language modeling in natural language processing,
 
 
 
-## Reference
+## Citation
 
-coming soon!
+If you feel our work helpful, please kindly cite the paper :)
+```bib
+@misc{chen2024tokenpredictionmultimodalintelligence,
+      title={Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey}, 
+      author={Liang Chen and Zekun Wang and Shuhuai Ren and Lei Li and Haozhe Zhao and Yunshui Li and Zefan Cai and Hongcheng Guo and Lei Zhang and Yizhe Xiong and Yichi Zhang and Ruoyu Wu and Qingxiu Dong and Ge Zhang and Jian Yang and Lingwei Meng and Shujie Hu and Yulong Chen and Junyang Lin and Shuai Bai and Andreas Vlachos and Xu Tan and Minjia Zhang and Wen Xiao and Aaron Yee and Tianyu Liu and Baobao Chang},
+      year={2024},
+      eprint={2412.18619},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.18619}, 
+}
+```
 
 
 
