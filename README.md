@@ -20,7 +20,7 @@ Building on the foundations of language modeling in natural language processing,
 
 
 ## 🔥🔥 News
-- 2024.12.30: We release the survey on arxiv and this repo at GitHub! Feel free to make pull requests to add the latest work ~ 
+- 2024.12.30: We release the survey on arxiv and this repo at GitHub! Feel free to make pull requests to add the latest work to the seasonly update of the survey ~ 
 
 ## 📑 Table of Contents
 
