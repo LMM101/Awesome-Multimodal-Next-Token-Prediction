@@ -20,9 +20,6 @@ Building on the foundations of language modeling in natural language processing,
 
 > *<sup>1</sup>Peking University <sup>2</sup>Beihang University <sup>3</sup>University of Hong Kong <sup>4</sup>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences <sup>5</sup>Tsinghua University <sup>6</sup>M-A-P <sup>7</sup>The Chinese University of Hong Kong <sup>8</sup>Alibaba Group <sup>9</sup>University of Cambridge <sup>10</sup>Microsoft Research <sup>11</sup>UIUC <sup>12</sup>Humanify Inc. <sup>13</sup>Zhejiang University*
 
-<p align="center">
-<img src="./figs/aff.jpg" width=100%>
-<p>
 
 ---
 
