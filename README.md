@@ -70,6 +70,7 @@ Building on the foundations of language modeling in natural language processing,
 
 | **Paper** | **Time** | **Modality** | **Tokenization Type** | **GitHub** |
 |-----------|----------|--------------|-----------------------|-------------|
+| [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069) | 2024 | Image | Discrete | [![Star](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow.svg?style=social&label=Star)](https://github.com/ByteFlow-AI/TokenFlow) |
 | [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution (QwenVL2-ViT)](https://arxiv.org/abs/2409.12191) | 2024 | Image,Video | Continuous | [![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-VL.svg?style=social&label=Star)](https://github.com/QwenLM/Qwen2-VL) |
 | [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) | 2024 | Image | Discrete | [![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)](https://github.com/FoundationVision/VAR) |
 | [SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs](https://arxiv.org/abs/2306.17842) | 2023 | Image | Discrete | - |
