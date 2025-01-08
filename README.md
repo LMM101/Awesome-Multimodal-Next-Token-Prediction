@@ -16,6 +16,9 @@
 
 Building on the foundations of language modeling in natural language processing, Next Token Prediction (NTP) has evolved into a versatile training objective for machine learning tasks across various modalities, achieving considerable success in both understanding and generation tasks. This repo features a comprehensive paper and repos collection for the survey: "Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey". 
 
+
+👉 Full paper: https://arxiv.org/abs/2412.18619
+
 > **Authors**: Liang Chen<sup>1</sup>, Zekun Wang<sup>2</sup>, Shuhuai Ren<sup>1</sup>, Lei Li<sup>3</sup>, Haozhe Zhao<sup>1</sup>, Yunshui Li <sup>4</sup>, Zefan Cai<sup>1</sup>, Hongcheng Guo<sup>2</sup>, Lei Zhang<sup>4</sup>, Yizhe Xiong<sup>5</sup>, Yichi Zhang<sup>1</sup>, Ruoyu Wu<sup>1</sup>, Qingxiu Dong<sup>1</sup>, Ge Zhang<sup>6</sup>, Jian Yang<sup>8</sup>, Lingwei Meng<sup>7</sup>, Shujie Hu<sup>7</sup>, Yulong Chen<sup>9</sup>, Junyang Lin<sup>8</sup>, Shuai Bai<sup>8</sup>, Andreas Vlachos<sup>9</sup>, Xu Tan <sup>10</sup>, Minjia Zhang<sup>11</sup>, Wen Xiao <sup>10</sup>, Aaron Yee<sup>12,13</sup>, Tianyu Liu<sup>8</sup>, Baobao Chang<sup>1</sup>
 
 > *<sup>1</sup>Peking University <sup>2</sup>Beihang University <sup>3</sup>University of Hong Kong <sup>4</sup>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences <sup>5</sup>Tsinghua University <sup>6</sup>M-A-P <sup>7</sup>The Chinese University of Hong Kong <sup>8</sup>Alibaba Group <sup>9</sup>University of Cambridge <sup>10</sup>Microsoft Research <sup>11</sup>UIUC <sup>12</sup>Humanify Inc. <sup>13</sup>Zhejiang University*
