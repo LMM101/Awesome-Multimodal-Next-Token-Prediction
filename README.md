@@ -138,6 +138,7 @@ Building on the foundations of language modeling in natural language processing,
 
 | **Paper** | **Time** | **Modality** | **Model Type** | **Task** | **GitHub** |
 |-----------|----------|--------------|----------------|----------|------------|
+| [MetaMorph: Multimodal Understanding and Generation via Instruction Tuning](https://arxiv.org/abs/2412.14164) | 2024 | Image | Unified | Image2Text, Text2Image | - |
 | [Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332) | 2024 | Image | Unified | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/FoundationVision/Liquid?style=social&label=Star)](https://github.com/FoundationVision/Liquid) |
 | [Infinity ∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/pdf/2412.04431) | 2024 | Image | Unified | Text2Image | [![Star](https://img.shields.io/github/stars/FoundationVision/Infinity.svg?style=social&label=Star)](https://github.com/FoundationVision/Infinity) |
 | [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635.pdf) | 2024 | Image | Unified | Image2Text, Text2Image | [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm) |
